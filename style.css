@@ -111,7 +111,7 @@ nav{
     background-repeat: no-repeat;
     width: 100%;
     background: black;
-    background-size: contain;
+    background-size: cover;
     background-position: center right;
     background: url(/images/background.png);
 }
