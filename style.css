@@ -108,10 +108,11 @@ nav{
     position: relative;
     display: flex;
     flex-direction: column;
-    
+    background-repeat: no-repeat;
     width: 100%;
     background: black;
     background-size: contain;
+    background-position: center right;
     background: url(/images/background.png);
 }
 #particles-js {
