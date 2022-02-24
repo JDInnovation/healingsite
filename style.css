@@ -131,6 +131,7 @@ nav{
     display: flex;
     text-align: left;
     min-height: 100vh;
+    padding-left: 100px;
     
 }
 
