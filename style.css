@@ -148,6 +148,7 @@ nav{
     overflow: hidden;
     transition: 0.2s;
     background: #ff0aad11;
+    z-index: 2000;
 }
 .hero .text a:hover{
     background: #660646;
