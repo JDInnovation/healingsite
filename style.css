@@ -515,9 +515,9 @@ nav{
     width: calc(250px * 10);
     animation: scroll 40s linear infinite;
 }
-.slide-track:hover{
+/*.slide-track:hover{
     animation-play-state: paused;
-}
+}*/
 @keyframes scroll{
     0% {
         transform: translateX(0);
@@ -577,9 +577,9 @@ video:hover{
     width: calc(250px * 10);
     animation: scroll2 40s linear infinite;
 }
-.slide-track2:hover{
+/*.slide-track2:hover{
     animation-play-state: paused;
-}
+}*/
 @keyframes scroll2{
     0% {
         transform: translateX(0);
