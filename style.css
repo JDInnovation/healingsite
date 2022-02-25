@@ -65,6 +65,7 @@ nav{
 .logonav img{
     max-width: 50px;
     margin-right: 20px;
+    cursor: pointer;
 }
 .ul-left {
     margin-top: 10px;
